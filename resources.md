@@ -5,10 +5,10 @@ permalink: /resources/
 ---
 Please contact <adam.tyson@icr.ac.uk> for any assistance.
 
-### General scripts/macros
+## General scripts/macros
 #### ImageJ/FIJI macros
 
-### Internal specific scripts/pipelines:
+## Internal specific scripts/pipelines:
 #### MATLAB
 
 [foci2D - Assess foci in 2D images on a per cell basis (using nuclear marker)](https://github.com/ICR-analysis/foci2D)
@@ -24,4 +24,4 @@ Please contact <adam.tyson@icr.ac.uk> for any assistance.
 #### Python
 
 
-### Other scripts/pipelines:
+## Other scripts/pipelines:
