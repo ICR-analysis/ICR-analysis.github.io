@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is designed to support image analysis at the Institute of Cancer Research (predominantly fluroescence microscopy). The main aims are:
+This blog is designed to support image analysis at the Institute of Cancer Research (predominantly fluorescence microscopy). The main aims are:
 
 * To provide a central repository to share best practices, and to standardise image analysis across the ICR where possible.
 * To allow sharing of resources (pipelines, scripts etc).
