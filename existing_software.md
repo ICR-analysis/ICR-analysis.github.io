@@ -7,7 +7,7 @@ permalink: /existing-software/
 ## Choosing microscopy software
  
 
-The microscopy facility in Chelsea has licenses for a number of image analysis packages, along with experience in using many different programs. If you are unsure about any aspect of image analysis, please email [Adam Tyson](adam.tyson@icr.ac.uk), or come to the facility.
+The microscopy facility in Chelsea has licenses for a number of image analysis packages, along with experience in using many different programs. If you are unsure about any aspect of image analysis, please <a href='mailto:adam.tyson@icr.ac.uk'>email</a>, or come to the facility.
 
 It is also much easier to develop your analysis pipeline before acquiring most of your data, please plan ahead!
 
