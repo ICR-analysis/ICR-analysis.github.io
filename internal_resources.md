@@ -14,7 +14,11 @@ Please contact <adam.tyson@icr.ac.uk> for any assistance.
 [Cellprofiler pipelines](https://github.com/ICR-analysis/cellprofiler)
 
 [MATLAB scripts](https://github.com/ICR-analysis/MATLAB_tools)
-## Internal specific scripts/pipelines:
+
+[Python scripts](https://github.com/ICR-analysis/Python_tools)
+
+[Bash scripts](https://github.com/ICR-analysis/shell-misc)
+## Specific scripts/pipelines:
 #### MATLAB
 
 [foci2D - Assess foci in 2D images on a per cell basis (using nuclear marker)](https://github.com/ICR-analysis/foci2D)
@@ -35,4 +39,3 @@ Please contact <adam.tyson@icr.ac.uk> for any assistance.
 
 [relativeTrack - Track one class of objects relative to another](https://github.com/ICR-analysis/relativeTrack)
 
-## Other scripts/pipelines:
