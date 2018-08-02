@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: Internal Resources
+permalink: /internal-resources/
 ---
 
 Most code is hosted on the [ICR Github](https://github.com/ICR-analysis) page. Programs can be downloaded as a .zip, or cloned using git. Feel free to contribute and submit pull requests.
@@ -12,6 +12,8 @@ Please contact <adam.tyson@icr.ac.uk> for any assistance.
 [ImageJ/FIJI macros](https://github.com/ICR-analysis/FIJI_ICR)
 
 [Cellprofiler pipelines](https://github.com/ICR-analysis/cellprofiler)
+
+[MATLAB scripts](https://github.com/ICR-analysis/MATLAB_tools)
 ## Internal specific scripts/pipelines:
 #### MATLAB
 
