@@ -4,7 +4,7 @@ title: Internal Resources
 permalink: /internal-resources/
 ---
 
-Most code is hosted on the [ICR Github](https://github.com/ICR-analysis) page. Programs can be downloaded as a .zip, or cloned using git. Feel free to contribute and submit pull requests.
+Most code is hosted on the [ICR Github](https://github.com/ICR-analysis) page. Programs can be downloaded as a .zip, or cloned using [git](https://git-scm.com). Feel free to contribute and submit pull requests.
 
 Please contact <adam.tyson@icr.ac.uk> for any assistance.
 
