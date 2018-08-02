@@ -3,11 +3,15 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+
+Most code is hosted on the [ICR Github](https://github.com/ICR-analysis) page. Programs can be downloaded as a .zip, or cloned using git. Feel free to contribute and submit pull requests.
+
 Please contact <adam.tyson@icr.ac.uk> for any assistance.
 
 ## General scripts/macros
-#### ImageJ/FIJI macros
+[ImageJ/FIJI macros](https://github.com/ICR-analysis/FIJI_ICR)
 
+[Cellprofiler pipelines](https://github.com/ICR-analysis/cellprofiler)
 ## Internal specific scripts/pipelines:
 #### MATLAB
 
@@ -17,11 +21,16 @@ Please contact <adam.tyson@icr.ac.uk> for any assistance.
 
 [foci-colocalisation - Measure colocalisation of two types of foci per cell](https://github.com/ICR-analysis/foci-colocalisation)
 
-[CalciumAnalysis - Simple analysis of calcium dynamics in 2D images.](https://github.com/ICR-analysis/CalciumAnalysis)
+[CalciumAnalysis - Simple analysis of calcium dynamics in 2D images](https://github.com/ICR-analysis/CalciumAnalysis)
 
 [foci-timelapse - Measure foci dynamics](https://github.com/ICR-analysis/foci-timelapse)
 
-#### Python
+[man-seg-analysis - Analyses objects following manual segmentation (e.g. EM)](https://github.com/ICR-analysis/man-seg-analysis)
 
+
+#### Python
+[coloc-3DT - Measure intensity of one marker in another](https://github.com/ICR-analysis/coloc-3DT)
+
+[relativeTrack - Track one class of objects relative to another](https://github.com/ICR-analysis/relativeTrack)
 
 ## Other scripts/pipelines:
