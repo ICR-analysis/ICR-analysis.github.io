@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+ <img src="https://cdn.rawgit.com/ICR-analysis/misc/d5f97156/images/ICR_logo.png" alt="ICR logo" style="width:300px">
+
