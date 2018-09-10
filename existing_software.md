@@ -18,7 +18,7 @@ It is also much easier to develop your analysis pipeline before acquiring most o
 * **Reproducible** – any researcher, in any lab can reproduce, and build upon published research without having to pay for the software.
 * **Dynamic** - new features are added constantly. New algorithms are often made available with the paper (or often with a preprint).
 * **Open** – you and the community can understand all the analysis carried out on your images.
-* **Little** (or no) licensing - likely possible (if not easy) to use in a high performance computing environment.
+* **Little (or no) licensing** - likely possible (if not easy) to use in a high performance computing environment.
 
 #### Disadvantages:
 * **Ease of use** - some software can be daunting to use at first, and can be more difficult to install.
