@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ICR Image Analysis
-email: adam.tyson@icr.ac.uk
+email: adam.tyson01@icr.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Image analysis at the Institute of Cancer Research FACS and Light Microscopy Facility
 baseurl: "" # the subpath of your site, e.g. /blog
