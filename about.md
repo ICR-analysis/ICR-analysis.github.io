@@ -11,4 +11,4 @@ This blog is designed to support image analysis at the Institute of Cancer Resea
 * To prevent information and expertise being lost when people leave the ICR.
 
 
-If you have anything you would like to add, or if you have any questions, please get in touch at <adam.tyson@icr.ac.uk>.
+If you have anything you would like to add, or if you have any questions, please get in touch at <adam.tyson01@icr.ac.uk>.
