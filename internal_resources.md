@@ -6,7 +6,7 @@ permalink: /internal-resources/
 
 Most code is hosted on the [ICR Github](https://github.com/ICR-analysis) page. Programs can be downloaded as a .zip, or cloned using [git](https://git-scm.com). Feel free to contribute and submit pull requests.
 
-Please contact <adam.tyson@icr.ac.uk> for any assistance.
+Please contact <adam.tyson01@icr.ac.uk> for any assistance.
 
 ## General scripts/macros
 [ImageJ/FIJI macros](https://github.com/ICR-analysis/FIJI_ICR)
